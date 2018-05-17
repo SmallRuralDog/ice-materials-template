@@ -1,0 +1,111 @@
+{
+  "name": "vue-materials",
+  "type": "vue",
+  "blocks": [
+    {
+      "name": "login",
+      "title": "Login",
+      "source": {
+        "type": "npm",
+        "npm": "dog-login-block",
+        "version": "1.0.2",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "@vue-materials/basic-container": "^1.0.0",
+        "vue": "^2.5.16"
+      },
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "description": "Login",
+      "repository": "https://github.com/SmallRuralDog/ice-materials-template",
+      "publishTime": "2018-05-17T11:34:49.746Z",
+      "updateTime": "2018-05-17T11:59:02.541Z"
+    },
+    {
+      "name": "platform-intro",
+      "title": "Platform intro",
+      "source": {
+        "type": "npm",
+        "npm": "dog-platform-intro-block",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "@vue-materials/basic-container": "^1.0.0",
+        "vue": "^2.5.16"
+      },
+      "categories": [
+        "信息展示"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "description": "Platform intro",
+      "repository": "https://github.com/alibaba/ice",
+      "publishTime": "2018-05-17T12:00:49.159Z",
+      "updateTime": "2018-05-17T12:00:52.464Z"
+    }
+  ],
+  "layouts": [
+    {
+      "name": "blank-layout",
+      "title": "顶部-侧边-布局",
+      "source": {
+        "type": "npm",
+        "npm": "dog-blank-layout",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "element-ui": "^2.3.4",
+        "normalize.css": "^8.0.0",
+        "vue": "^2.5.16"
+      },
+      "screenshot": "https://img.alicdn.com/tfs/TB1.d2CpGmWBuNjy1XaXXXCbXXa-2840-1596.png",
+      "categories": [
+        "布局"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "description": "顶部导航 + 边栏 + 内容区的布局, 通常用于站点正文。",
+      "thumbnail": "https://gw.alicdn.com/tfs/TB1dC19lC_I8KJjy0FoXXaFnVXa-976-974.png",
+      "repository": "https://github.com/alibaba/ice",
+      "publishTime": "2018-05-17T12:01:36.076Z",
+      "updateTime": "2018-05-17T12:01:42.086Z"
+    }
+  ],
+  "scaffolds": [
+    {
+      "name": "dog-app",
+      "title": "ice vue admin",
+      "source": {
+        "type": "npm",
+        "npm": "small-dog-app",
+        "version": "1.0.2"
+      },
+      "dependencies": {
+        "vue": "^2.5.13",
+        "vue-router": "^3.0.1"
+      },
+      "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.0.0-beta.6",
+        "@vue/cli-plugin-eslint": "^3.0.0-beta.6",
+        "@vue/cli-service": "^3.0.0-beta.6",
+        "@vue/eslint-config-airbnb": "^3.0.0-beta.6",
+        "node-sass": "^4.7.2",
+        "sass-loader": "^6.0.6",
+        "vue-template-compiler": "^2.5.13"
+      },
+      "categories": [],
+      "features": {},
+      "publishTime": "2018-05-17T12:02:29.790Z",
+      "updateTime": "2018-05-17T12:02:32.883Z"
+    }
+  ]
+}
