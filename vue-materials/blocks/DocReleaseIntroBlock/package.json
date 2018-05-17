@@ -1,8 +1,8 @@
 {
-  "name": "dog-platform-intro-block",
+  "name": "doc-release-intro-block",
   "version": "1.0.0",
-  "description": "平台介绍",
-  "author": "thinktb <296404875@qq.com>",
+  "description": "release-intro-block",
+  "author": "zhangwei <296404875@qq.com>",
   "files": [
     "src/",
     "lib/"
@@ -25,12 +25,11 @@
     "vue": "^2.5.16"
   },
   "blockConfig": {
-    "name": "platform-intro",
-    "title": "平台介绍",
+    "name": "doc-release-intro-block",
+    "title": "软件发布介绍页",
     "categories": [
-      "信息展示",
-      "欢迎页"
+      "信息展示"
     ],
-    "screenshot": "https://img.alicdn.com/tfs/TB1JsHkqGmWBuNjy1XaXXXCbXXa-2531-1370.jpg"
+    "screenshot": "https://img.alicdn.com/tfs/TB19OTopKuSBuNjy1XcXXcYjFXa-2624-1488.png"
   }
 }

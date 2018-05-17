@@ -1,7 +1,7 @@
 {
   "name": "dog-login-block",
   "version": "1.0.2",
-  "description": "Login",
+  "description": "登录页",
   "author": "thinktb <296404875@qq.com>",
   "files": [
     "src/",
@@ -26,10 +26,10 @@
   },
   "blockConfig": {
     "name": "login",
-    "title": "Login",
+    "title": "登录页",
     "categories": [
-      "其他"
+      "登录页"
     ],
-    "screenshot": ""
+    "screenshot": "https://img.alicdn.com/tfs/TB14mtgq_tYBeNjy1XdXXXXyVXa-2780-1582.png"
   }
 }
