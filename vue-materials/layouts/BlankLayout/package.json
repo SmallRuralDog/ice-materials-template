@@ -1,6 +1,6 @@
 {
   "name": "dog-blank-layout",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "顶部导航 + 边栏 + 内容区的布局, 通常用于站点正文。",
   "author": {
     "name": "thinktb",
@@ -20,8 +20,7 @@
     "ice-block"
   ],
   "publishConfig": {
-    "access": "public",
-    "registry": "http://registry.npmjs.com"
+    "access": "public"
   },
   "dependencies": {
     "element-ui": "^2.3.4",

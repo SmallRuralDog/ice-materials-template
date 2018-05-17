@@ -1,6 +1,6 @@
 {
   "name": "dog-platform-intro-block",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Platform intro",
   "author": "thinktb <296404875@qq.com>",
   "files": [
@@ -18,8 +18,7 @@
     "block"
   ],
   "publishConfig": {
-    "access": "public",
-    "registry": "http://registry.npmjs.com"
+    "access": "public"
   },
   "dependencies": {
     "@vue-materials/basic-container": "^1.0.0",
