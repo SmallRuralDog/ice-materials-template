@@ -1,15 +1,15 @@
 {
-  "name": "@vue-materials/dog-login-block",
+  "name": "@vue-materials/dog-platform-intro-block",
   "version": "1.0.1",
-  "description": "Login",
-  "author": "zhangwei <296404875@qq.com>",
+  "description": "Platform intro",
+  "author": "zw <296404875@qq.com>",
   "files": [
     "src/",
     "lib/"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SmallRuralDog/ice-materials-template"
+    "url": "https://github.com/alibaba/ice"
   },
   "license": "MIT",
   "keywords": [
@@ -26,10 +26,10 @@
     "vue": "^2.5.16"
   },
   "blockConfig": {
-    "name": "login",
-    "title": "Login",
+    "name": "platform-intro",
+    "title": "Platform intro",
     "categories": [
-      "其他"
+      "信息展示"
     ],
     "screenshot": ""
   }
