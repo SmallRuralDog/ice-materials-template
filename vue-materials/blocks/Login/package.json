@@ -1,5 +1,5 @@
 {
-  "name": "@vue-materials/login-block",
+  "name": "dog-login-block",
   "version": "1.0.0",
   "description": "Login",
   "author": "zhangwei <296404875@qq.com>",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/alibaba/ice"
+    "url": "https://github.com/SmallRuralDog/ice-materials-template"
   },
   "license": "MIT",
   "keywords": [

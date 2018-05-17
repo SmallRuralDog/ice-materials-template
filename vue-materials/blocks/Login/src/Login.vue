@@ -32,7 +32,7 @@
 <script>
 export default {
   components: {},
-  name: 'Login',
+  name: 'ogin',
 
   data() {
     return {
