@@ -1,10 +1,10 @@
 {
   "name": "@vue-materials/dog-blank-layout",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "顶部导航 + 边栏 + 内容区的布局, 通常用于站点正文。",
   "author": {
-    "name": "ICE Team",
-    "email": "ice-admin@alibaba-inc.com"
+    "name": "thinktb",
+    "email": "296404875@qq.com"
   },
   "files": [
     "src/",

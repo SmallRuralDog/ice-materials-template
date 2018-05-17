@@ -1,8 +1,8 @@
 {
   "name": "@vue-materials/dog-platform-intro-block",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Platform intro",
-  "author": "zw <296404875@qq.com>",
+  "author": "thinktb <296404875@qq.com>",
   "files": [
     "src/",
     "lib/"
