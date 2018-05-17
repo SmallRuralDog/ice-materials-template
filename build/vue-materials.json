@@ -3,8 +3,33 @@
   "type": "vue",
   "blocks": [
     {
+      "name": "doc-release-intro-block",
+      "title": "软件发布介绍页",
+      "source": {
+        "type": "npm",
+        "npm": "doc-release-intro-block",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "@vue-materials/basic-container": "^1.0.0",
+        "vue": "^2.5.16"
+      },
+      "screenshot": "https://img.alicdn.com/tfs/TB19OTopKuSBuNjy1XcXXcYjFXa-2624-1488.png",
+      "categories": [
+        "信息展示"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "description": "release-intro-block",
+      "repository": "https://github.com/SmallRuralDog/ice-materials-template",
+      "publishTime": "2018-05-17T15:22:33.763Z",
+      "updateTime": "2018-05-17T15:22:37.456Z"
+    },
+    {
       "name": "login",
-      "title": "Login",
+      "title": "登录页",
       "source": {
         "type": "npm",
         "npm": "dog-login-block",
@@ -15,20 +40,21 @@
         "@vue-materials/basic-container": "^1.0.0",
         "vue": "^2.5.16"
       },
+      "screenshot": "https://img.alicdn.com/tfs/TB14mtgq_tYBeNjy1XdXXXXyVXa-2780-1582.png",
       "categories": [
-        "其他"
+        "登录页"
       ],
       "features": {
         "useComponents": []
       },
-      "description": "Login",
+      "description": "登录页",
       "repository": "https://github.com/SmallRuralDog/ice-materials-template",
       "publishTime": "2018-05-17T11:34:49.746Z",
       "updateTime": "2018-05-17T11:59:02.541Z"
     },
     {
       "name": "platform-intro",
-      "title": "Platform intro",
+      "title": "平台介绍",
       "source": {
         "type": "npm",
         "npm": "dog-platform-intro-block",
@@ -39,14 +65,16 @@
         "@vue-materials/basic-container": "^1.0.0",
         "vue": "^2.5.16"
       },
+      "screenshot": "https://img.alicdn.com/tfs/TB1JsHkqGmWBuNjy1XaXXXCbXXa-2531-1370.jpg",
       "categories": [
-        "信息展示"
+        "信息展示",
+        "欢迎页"
       ],
       "features": {
         "useComponents": []
       },
-      "description": "Platform intro",
-      "repository": "https://github.com/alibaba/ice",
+      "description": "平台介绍",
+      "repository": "https://github.com/SmallRuralDog/ice-materials-template",
       "publishTime": "2018-05-17T12:00:49.159Z",
       "updateTime": "2018-05-17T12:00:52.464Z"
     }
@@ -54,7 +82,7 @@
   "layouts": [
     {
       "name": "blank-layout",
-      "title": "顶部-侧边-布局",
+      "title": "空白布局",
       "source": {
         "type": "npm",
         "npm": "dog-blank-layout",
@@ -66,16 +94,16 @@
         "normalize.css": "^8.0.0",
         "vue": "^2.5.16"
       },
-      "screenshot": "https://img.alicdn.com/tfs/TB1.d2CpGmWBuNjy1XaXXXCbXXa-2840-1596.png",
+      "screenshot": "https://img.alicdn.com/tfs/TB1T65abVOWBuNjy0FiXXXFxVXa-2840-1596.png",
       "categories": [
         "布局"
       ],
       "features": {
         "useComponents": []
       },
-      "description": "顶部导航 + 边栏 + 内容区的布局, 通常用于站点正文。",
-      "thumbnail": "https://gw.alicdn.com/tfs/TB1dC19lC_I8KJjy0FoXXaFnVXa-976-974.png",
-      "repository": "https://github.com/alibaba/ice",
+      "description": "完全空白的布局，通常用来做首页、产品介绍或者登陆页面。推荐使用登陆页分类下的区块。",
+      "thumbnail": "https://gw.alicdn.com/tfs/TB1SvQmlsLJ8KJjy0FnXXcFDpXa-976-974.png",
+      "repository": "https://github.com/SmallRuralDog/ice-materials-template",
       "publishTime": "2018-05-17T12:01:36.076Z",
       "updateTime": "2018-05-17T12:01:42.086Z"
     }
