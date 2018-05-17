@@ -1,8 +1,8 @@
 {
-  "name": "dog-app",
-  "version": "1.0.1",
+  "name": "small-dog-app",
+  "version": "1.0.2",
   "description": "",
-  "author": "zw <296404875@qq.com>",
+  "author": "thinktb <296404875@qq.com>",
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",

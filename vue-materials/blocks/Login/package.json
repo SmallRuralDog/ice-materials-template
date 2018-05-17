@@ -1,6 +1,6 @@
 {
-  "name": "@vue-materials/dog-login-block",
-  "version": "1.0.4",
+  "name": "dog-login-block",
+  "version": "1.0.5",
   "description": "Login",
   "author": "thinktb <296404875@qq.com>",
   "files": [
